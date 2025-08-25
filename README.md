@@ -33,9 +33,9 @@ Start playing with a friend! 🎮
 📌 Example Gameplay
 
  O | X | O
-
+-----------
  X | O | X
- 
+-----------
  O |   | X
 
 
