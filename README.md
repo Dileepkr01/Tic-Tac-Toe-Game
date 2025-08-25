@@ -31,6 +31,7 @@ Start playing with a friend! 🎮
  ┗ 📜 README.md    # Project documentation  
 
 📌 Example Gameplay
+
  O | X | O
 -----------
  X | O | X
