@@ -1,5 +1,5 @@
 🎮 Tic-Tac-Toe Game
-----
+-----
 
 A simple Tic-Tac-Toe (X-O) game built using HTML, CSS, and JavaScript.
 Two players can play alternately on the same device, and the game announces the winner or a draw.
