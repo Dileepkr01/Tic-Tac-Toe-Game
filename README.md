@@ -18,7 +18,7 @@ Two players can play alternately on the same device, and the game announces the 
 ✅ Simple and responsive design
 
 🖥️ How to Run
-
+-----
 Clone or download this repository.
 
 Open index.html in your web browser.
